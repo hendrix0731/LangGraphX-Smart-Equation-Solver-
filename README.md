@@ -107,6 +107,7 @@ Here’s a simple flow diagram of how the project works:
 │ Two roots││ One root │ │ Complex roots│
 └─────────┘ └─────────┘ └─────────────┘
 ```
+![Workflow Illustration](graph.png)
 
 ---
 
